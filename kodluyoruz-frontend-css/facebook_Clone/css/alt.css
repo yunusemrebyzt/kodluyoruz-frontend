@@ -1,0 +1,43 @@
+#footer ul{
+    position: relative;
+    width: 40%;
+    margin: auto;
+    list-style: none;
+}
+#footer li{
+    float: left;
+    font-size: 15px;
+    padding: 30px 5px 0;
+}
+#noktali{
+    background-color: lightgrey;
+    padding: 5px;
+}
+#footer a{
+    text-decoration: none;
+    font-family: "lucida grande",Tahoma,Verdana,Arial,sans-serif;
+
+}
+#footer a:hover{
+    text-decoration: underline;
+}
+#noktali:hover{
+    background-color: grey;
+}
+#footer hr{
+    width: 60%;
+    border: none;
+    background-color: #666666;
+    height: 1px;
+}
+#footer table{
+    position: relative;
+    margin-left: 30%;
+    width: 700px;
+}
+#son_satir{
+    margin-left: 30%;
+    font-size: 12px;
+    color: darkgray;
+    padding: 20px 0;
+}

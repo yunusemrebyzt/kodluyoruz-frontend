@@ -1,0 +1,100 @@
+#fcbox{
+    background-color: #EDF0F5;
+    height: 750px;
+}
+#tutucu{
+    width: 1050px;
+    height: 50px;
+    margin: auto;
+   /* background-color: red;*/
+    padding: 28px;
+}
+#sol{
+    width: 550px;
+    float: left;
+}
+
+#sol h2{
+    color: #333;
+    font-weight: 400;
+    font-size: 28px;
+    font-family: "Freight Sans Bold","lucida grande",Tahoma,Verdana,Arial,sans-serif;
+    display: inline-block;
+    line-height: 36px;
+}
+
+#sol ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#sol ul span{
+    position: relative;
+    top: -25px;
+}
+#sol li{
+    margin-bottom: 20px;
+}
+#fc2 span{
+    left: 10px;
+}
+
+#sag{
+    width: 500px;
+    float: left;
+    color: #333;
+    font-family:"Freight Sans Bold","lucida grande",Tahoma,Verdana,Arial,sans-serif;
+    box-sizing: border-box;
+    .webkit-box-sizing:border;
+}
+
+#sag input{
+    position: relative;
+    box-sizing: border-box;
+    background-color: #fff;
+    height: 45px; !important;
+    width: 100%;
+    font-size: 18px;
+    margin-bottom: 5px;
+    border: 1px solid rgba(58,87,149,0.7);
+    border-radius: 5px;
+}
+#sag tr{
+    height: 50px;
+}
+#sag td{
+    padding: 0 10px;
+    height: 50px;
+}
+#sag a{
+    font-size: 14px;
+    margin-left: -40px;
+}
+input[type=radio]{
+    position: relative;
+    margin-top: -40px;
+    top: 38px;
+
+    -webkit-transform: scale(0.5);
+}
+
+#terms{
+    position: relative;
+    left: 50px;
+    top: 5px;
+    text-align: left;
+}
+#sag input[type="Submit"]{
+    top: 15px;
+    background-color: #6BA656 ;
+    color: white;
+    border: 2px outset #6BF656 ;
+}
+#sag hr{
+    background-color: grey;
+    margin-top: 30px;
+}
+#altyazi{
+   font-size: 15px;
+    color: #666;
+}

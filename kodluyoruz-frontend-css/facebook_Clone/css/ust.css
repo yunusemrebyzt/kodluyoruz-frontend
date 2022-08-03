@@ -1,0 +1,70 @@
+.clear{
+    clear: both;
+}
+
+body,ul,li,form{
+    margin: 0;
+    padding: 0;
+}
+#fctop{
+    background-color: rgb(58,87,149);
+    width: 100%;
+    height: 90px;
+}
+#fctop ul{
+
+    list-style: none;
+}
+#fctop li{
+    margin: 15px 0 0 200px;
+    float: left;
+    color: white;
+
+}
+#mainlogo{
+    position: relative;
+    top: 10px;
+    font-size: 2.7em;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+#tel{
+    position: relative;
+    left: 150px;
+    font-size: .8em;
+    font-family: sans-serif;
+}
+#pass{
+    font-size: .8em;
+    font-family: sans-serif;
+}
+#yukle{
+    position: relative;
+    top: 14px;
+    left: -180px;
+}
+#pass a{
+    color: lightgrey;
+    position: relative;
+    top: 4px;
+    left: 2px;
+
+}
+#tel input[type ="checkbox"]{
+    position: relative;
+    left: -3px;
+    top: 5px;
+
+}
+.topform input{
+    border-radius: 0;
+    border: none;
+    height: 20px;
+    background-color: white;
+}
+.topform input[type="submit"]{
+     background-color: rgb(96,121,171);
+    border: 1px outset darkblue;
+
+
+}
