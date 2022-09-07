@@ -1,0 +1,32 @@
+
+
+.header{
+  background-color: lightgray;
+}
+.header select{
+  border-radius: 5px;
+}
+.card{
+  width: 10rem;
+}
+.card .maxtemp{
+  font-weight: bold;
+}
+.card .mintemp{
+  font-weight: lighter;
+}
+.card img{
+  width: 100%;
+}
+ul{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+li{
+  padding: 5px;
+}
+.card-body{
+  display: flex;
+  justify-content: space-between;
+}
